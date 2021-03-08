@@ -1,0 +1,45 @@
+*{
+    background-color: pink;
+    text-align: center;
+}
+
+.date{
+    color: rgb(207, 8, 8);
+    font-weight:bolder ;
+}
+
+.titulo{
+    font-family: Georgia, 'Times New Roman';
+    font-size: 40px;
+    color: purple;
+    font-style: italic;
+    line-height: 70px;
+}
+
+p{
+    font-size: 19px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri ;
+}
+
+h2{
+    color: rgb(204, 14, 163);
+    font-style:unset;
+    font-size: 30px;
+}
+
+h3{
+    font-family:'Franklin Gothic Medium';
+    color: rgb(230, 36, 101);
+    font-size: 30px;
+}
+
+time{
+    color: rgb(11, 11, 88);
+    font-size: 18px;
+} 
+
+.comment{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    font-size: 20px;
+}
+
